@@ -1,6 +1,6 @@
 # 🕷 makescraper
 
-[[![Go Report Card](https://goreportcard.com/badge/github.com/omarsagoo/makescraper)](https://goreportcard.com/report/github.com/omarsagoo/makescraper)
+[![Go Report Card](https://goreportcard.com/badge/github.com/omarsagoo/makescraper)](https://goreportcard.com/report/github.com/omarsagoo/makescraper)
 
 _Create your very own web scraper and crawler using Go and [Colly](https://go-colly.org)!_
 
